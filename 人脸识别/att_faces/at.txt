@@ -1,0 +1,10 @@
+D:\desktop\FaceRecognition-main\att_faces\1111111/1.jpg;1111111
+D:\desktop\FaceRecognition-main\att_faces\1111111/2.jpg;1111111
+D:\desktop\FaceRecognition-main\att_faces\1111111/3.jpg;1111111
+D:\desktop\FaceRecognition-main\att_faces\1111111/4.jpg;1111111
+D:\desktop\FaceRecognition-main\att_faces\1111111/5.jpg;1111111
+D:\desktop\FaceRecognition-main\att_faces\1111111/6.jpg;1111111
+D:\desktop\FaceRecognition-main\att_faces\1111111/7.jpg;1111111
+D:\desktop\FaceRecognition-main\att_faces\1111111/8.jpg;1111111
+D:\desktop\FaceRecognition-main\att_faces\1111111/9.jpg;1111111
+D:\desktop\FaceRecognition-main\att_faces\1111111/10.jpg;1111111
